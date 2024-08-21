@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5381950086%2C%22first_name%22%3A%22Candra%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22candraapn%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=7291430474717573737&chat_type=sender&auth_date=1724251391&hash=2059ac09f46ddb944c2a8160baf4b0c734e1701bc0ed536cb1910aca990cca06
